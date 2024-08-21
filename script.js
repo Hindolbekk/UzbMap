@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }, 
              "Namangan viloyati": {
                 title: "Namangan viloyati",
-                description: "Viloyat qishloq xoʻjaligining asosiy tarmoqlari: Donchilik, paxtachilik, sabzavotchilik, bogʻdorchilik va uzumchilik,",
+                description: "Viloyat qishloq xoʻjaligining asosiy tarmoqlari: Donchilik, paxtachilik.",
                 imgSrc: "https://t4.ftcdn.net/jpg/04/32/84/37/360_F_432843749_rlAT7QzpwjY9Ze3YHB2R4GXF3fLX48Am.jpg"
             },
             "Andijon viloyati": {
@@ -102,7 +102,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 
                 region.style.fill = '#3498db';
-                region.style.transform = 'scale(1.001)';
                 region.style.transition = 'transform 0.3s ease, fill 0.3s ease';
             });
 

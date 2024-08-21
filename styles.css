@@ -35,7 +35,7 @@ path:hover {
 }
 
 #info-img {
-    width: 100%;
+    width: 250px;
     height: auto;
     border-radius: 4px;
     margin-bottom: 10px;
@@ -43,9 +43,11 @@ path:hover {
 
 #info-title {
     font-size: 1.2em;
+    font-weight: 600;
     margin: 0;
 }
 
 #info-description {
     margin: 5px 0 0;
+    font-weight: 400;
 }
