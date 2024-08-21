@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 
                 region.style.fill = '#3498db';
-                region.style.transform = 'scale(1.05)';
+                region.style.transform = 'scale(1.001)';
                 region.style.transition = 'transform 0.3s ease, fill 0.3s ease';
             });
 

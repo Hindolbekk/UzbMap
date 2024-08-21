@@ -18,9 +18,8 @@ body {
 }
 
 path:hover {
-    fill: #3498db; /* Kursor bilan viloyat ustiga kelganda o'zgaradigan rang */
-    transform: scale(1.05); /* Biroz kattalashish effekti */
-    transition: transform 0.3s ease, fill 0.3s ease; /* Animatsiya uchun o'tish */
+    fill: #3498db; 
+   
     cursor: pointer;
 }
 
