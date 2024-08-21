@@ -9,6 +9,7 @@ body {
     position: relative;
     width: 100%;
     max-width: 1000px;
+    height: 90%;
     margin: 0 auto;
 }
 
@@ -19,8 +20,8 @@ body {
 
 path:hover {
     fill: #3498db; 
-   
     cursor: pointer;
+    
 }
 
 #info {
